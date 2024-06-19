@@ -1,6 +1,10 @@
 # Cloud189Checkin
 天翼网盘自动签到（随机容量) 和抽奖（三次，每次50M，共150M）获取空间  
-https://github.com/wes-lin/Cloud189Checkin?tab=readme-ov-file
+
+## 特别鸣谢
+
+根据 https://github.com/wes-lin/Cloud189Checkin?tab=readme-ov-file 项目修改而来
+
 ## **目录**
 - [GitHub Action运行](#GitHubAction运行)
 - [本地运行](#本地运行)
